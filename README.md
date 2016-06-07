@@ -22,6 +22,6 @@
 ## Apache Commons Compress
 * http://mvnrepository.com/artifact/org.apache.commons/commons-compress
 * https://commons.apache.org/proper/commons-compress/
-* 
+
 ## IcePick
 * https://github.com/frankiesardo/icepick
