@@ -18,5 +18,5 @@
 アプリ設定から権限を許可して下さい。
 
 # 仕様ライブラリ
-* https://commons.apache.org/proper/commons-compress/
+* http://mvnrepository.com/artifact/org.apache.commons/commons-compress
 * https://github.com/frankiesardo/icepick
