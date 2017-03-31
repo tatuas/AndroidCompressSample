@@ -17,7 +17,7 @@
 # Marshmallow以降の場合
 アプリ設定から権限を許可して下さい。
 
-# 仕様ライブラリ
+# 使用しているライブラリ
 
 ## Apache Commons Compress
 * http://mvnrepository.com/artifact/org.apache.commons/commons-compress
